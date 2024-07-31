@@ -1,0 +1,4 @@
+敵の名前,ファイルディレクトリ,体力,力,防御,属性
+スライム,Resouces/Textures/goast.png,5,2,1,水
+ゴブリン,Resouces/Textures/goblin.png,7,3,2,土
+ドラゴン,Resouces/Textures/doragon.png,255,255,255,火
